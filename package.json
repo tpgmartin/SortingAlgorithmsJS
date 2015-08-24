@@ -1,0 +1,23 @@
+{
+  "name": "SortingAlgorithmsJS",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "jshint ./js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tpgmartin/SortingAlgorithmsJS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tpgmartin/SortingAlgorithmsJS/issues"
+  },
+  "homepage": "https://github.com/tpgmartin/SortingAlgorithmsJS",
+  "devDependencies": {
+    "jshint": "^2.8.0"
+  }
+}
